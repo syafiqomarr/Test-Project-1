@@ -19,7 +19,7 @@ class Food implements Serializable
         this.quantity=quantity;
         switch(itemno)
         {
-            case 1:price=quantity*50;
+            case 1:price=quantity*90;
                 break;
             case 2:price=quantity*60;
                 break;
